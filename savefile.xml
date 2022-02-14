@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildingInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cubeList>
+    <CubeInfo>
+      <prefabName>2</prefabName>
+      <position>
+        <x>5.66749573</x>
+        <y>10.8410645</y>
+        <z>-2.7543335</z>
+      </position>
+    </CubeInfo>
+    <CubeInfo>
+      <prefabName>2</prefabName>
+      <position>
+        <x>-3.82945251</x>
+        <y>10.8410645</y>
+        <z>1.25450134</z>
+      </position>
+    </CubeInfo>
+    <CubeInfo>
+      <prefabName>2</prefabName>
+      <position>
+        <x>12.0482788</x>
+        <y>10.8410645</y>
+        <z>27.3862762</z>
+      </position>
+    </CubeInfo>
+  </cubeList>
+</BuildingInfo>
