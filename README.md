@@ -1,5 +1,6 @@
 # City_Simulator_Unity3D
 
+Visualization of spatiotemporal urban data with Unity3D, A city simulator to support the decision-making process in urban development related tasks.
 
 
 For running the simulator: 
